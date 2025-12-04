@@ -14,15 +14,6 @@
     --link: rgb(var(--laurel));
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --bg: rgb(var(--spruce));
-        --text: rgb(var(--laurel));
-        --text-secondary: rgb(var(--laurel), .6);
-        --link: rgb(var(--laurel));
-    }
-}
-
 * {
     margin: 0;
     padding: 0;
